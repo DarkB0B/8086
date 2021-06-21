@@ -1,0 +1,20 @@
+C:\Users\miecz\source\repos\8086 2.0\8086 2.0\obj\Debug\8086 2.0.csprojAssemblyReference.cache
+C:\Users\miecz\source\repos\8086 2.0\8086 2.0\obj\Debug\_8086_2._0.Form1.resources
+C:\Users\miecz\source\repos\8086 2.0\8086 2.0\obj\Debug\_8086_2._0.Properties.Resources.resources
+C:\Users\miecz\source\repos\8086 2.0\8086 2.0\obj\Debug\8086 2.0.csproj.GenerateResource.cache
+C:\Users\miecz\source\repos\8086 2.0\8086 2.0\obj\Debug\8086 2.0.csproj.CoreCompileInputs.cache
+C:\Users\miecz\source\repos\8086 2.0\8086 2.0\bin\Debug\8086 2.0.exe.config
+C:\Users\miecz\source\repos\8086 2.0\8086 2.0\bin\Debug\8086 2.0.exe
+C:\Users\miecz\source\repos\8086 2.0\8086 2.0\bin\Debug\8086 2.0.pdb
+C:\Users\miecz\source\repos\8086 2.0\8086 2.0\obj\Debug\8086 2.0.exe
+C:\Users\miecz\source\repos\8086 2.0\8086 2.0\obj\Debug\8086 2.0.pdb
+C:\Users\miecz\Desktop\8086\8086\8086 2.0\bin\Debug\8086 2.0.exe.config
+C:\Users\miecz\Desktop\8086\8086\8086 2.0\bin\Debug\8086 2.0.exe
+C:\Users\miecz\Desktop\8086\8086\8086 2.0\bin\Debug\8086 2.0.pdb
+C:\Users\miecz\Desktop\8086\8086\8086 2.0\obj\Debug\8086 2.0.csprojAssemblyReference.cache
+C:\Users\miecz\Desktop\8086\8086\8086 2.0\obj\Debug\_8086_2._0.Form1.resources
+C:\Users\miecz\Desktop\8086\8086\8086 2.0\obj\Debug\_8086_2._0.Properties.Resources.resources
+C:\Users\miecz\Desktop\8086\8086\8086 2.0\obj\Debug\8086 2.0.csproj.GenerateResource.cache
+C:\Users\miecz\Desktop\8086\8086\8086 2.0\obj\Debug\8086 2.0.csproj.CoreCompileInputs.cache
+C:\Users\miecz\Desktop\8086\8086\8086 2.0\obj\Debug\8086 2.0.exe
+C:\Users\miecz\Desktop\8086\8086\8086 2.0\obj\Debug\8086 2.0.pdb
